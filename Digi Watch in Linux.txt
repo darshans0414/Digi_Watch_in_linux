@@ -1,0 +1,14 @@
+#!/bin/bash
+
+Red=$'\e[1;31m'
+Green=$'\e[1;32'
+Blue=$'\e[1;34m'
+Yellow=$'\e[1;35m'
+
+
+while true
+do
+             clear
+             echo $Green  $(date +%T)
+             sleep ls
+done

@@ -1,0 +1,17 @@
+How To Run Code
+
+Step 1:
+
+# date
+# date +%T
+# date +%T; sleep ls
+# date +%T; sleep ls;
+# vi digi_watch.sh
+ 
+Step 2:
+
+copy Digi Watch in Linux File
+
+Step 3:
+   
+    ./digi_watch.sh
